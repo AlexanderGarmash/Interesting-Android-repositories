@@ -12,3 +12,29 @@ I created this repository to collect all interested repositories which I found o
 10). [Reference Architecture for Android using RxJava](https://github.com/tehmou/rx-android-architecture)<br/>
 11). [android-best-practices](https://github.com/futurice/android-best-practices)<br/>
 12). [Material-Movies](https://github.com/saulmm/Material-Movies)<br/>
+13). [Mortar-architect](https://github.com/lukaspili/Mortar-architect)<br/>
+14). [AspectJ-Android-Example](https://github.com/firstthumb/AspectJ-Android-Example)<br/>
+15). [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts)<br/>
+16). [Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2)<br/>
+17). [rex-weather](https://github.com/vyshane/rex-weather)<br/>
+<br/>
+
+### Design / UI Examples
+1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
+2). [cheesesquare](https://github.com/chrisbanes/cheesesquare)<br/>
+3). [android-topeka](https://github.com/googlesamples/android-topeka)<br/>
+4). [Atelier](https://github.com/Musenkishi/Atelier)<br/>
+5). [citrus](https://github.com/eure/citrus)<br/>
+6). [Android-Material-Wizard](https://github.com/MarkOSullivan94/Android-Material-Wizard), [Android-WizardPager](https://github.com/romannurik/Android-WizardPager)<br/>
+7). [Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary)<br/>
+8). [android-design-support-lib-sample](https://github.com/swissonid/android-design-support-lib-sample)<br/>
+9). [ScoreBoard](https://github.com/SeniorZhai/ScoreBoard)<br/>
+10). [unisannio-android](https://github.com/hamen/unisannio-android)<br/>
+11). [Material-Design-Example](https://github.com/halysongoncalves/Material-Design-Example)<br/>
+12). [InstaMaterial](https://github.com/frogermcs/InstaMaterial)<br/>
+13). [Carbon](https://github.com/ZieIony/Carbon)<br/>
+14). [AndroidAnimationDemo](https://github.com/kongnanlive/AndroidAnimationDemo)<br/>
+15). [OpenLibra-Material](https://github.com/saulmm/OpenLibra-Material)<br/>
+16). [Beautiful-Photos](https://github.com/lgvalle/Beautiful-Photos)<br/>
+17). [Material-Animations](https://github.com/lgvalle/Material-Animations)<br/>
+18). [TinyStockQuotes](https://github.com/KKorvin/TinyStockQuotes)<br/>
