@@ -17,6 +17,7 @@ I created this repository to collect all interested repositories which I found o
 15). [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts)<br/>
 16). [Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2)<br/>
 17). [rex-weather](https://github.com/vyshane/rex-weather)<br/>
+18). [Qiitanium](https://github.com/ogaclejapan/Qiitanium)<br/>
 <br/>
 
 ### Design / UI Examples
