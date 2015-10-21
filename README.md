@@ -18,6 +18,7 @@ I created this repository to collect all interested repositories which I found o
 16). [Sunshine-Version-2](https://github.com/udacity/Sunshine-Version-2)<br/>
 17). [rex-weather](https://github.com/vyshane/rex-weather)<br/>
 18). [Qiitanium](https://github.com/ogaclejapan/Qiitanium)<br/>
+19). [android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app)<br/>
 <br/>
 
 ### Design / UI Examples
