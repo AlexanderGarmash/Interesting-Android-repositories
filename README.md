@@ -44,3 +44,7 @@ I created this repository to collect all interested repositories which I found o
 
 ###Reactive programming
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
+
+### Testing
+1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)
+2). [android-test-demo](https://github.com/chiuki/android-test-demo)
