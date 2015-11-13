@@ -42,9 +42,9 @@ I created this repository to collect all interested repositories which I found o
 17). [Material-Animations](https://github.com/lgvalle/Material-Animations)<br/>
 18). [TinyStockQuotes](https://github.com/KKorvin/TinyStockQuotes)<br/>
 19). [bblfr-android](https://github.com/Nilhcem/bblfr-android)<br/>
-20). [plaid](https://github.com/nickbutcher/plaid)
-21). [wallsplash](https://github.com/mikepenz/wallsplash-android)
-22). [android-wail-app](https://github.com/artem-zinnatullin/android-wail-app)
+20). [plaid](https://github.com/nickbutcher/plaid)<br/>
+21). [wallsplash](https://github.com/mikepenz/wallsplash-android)<br/>
+22). [android-wail-app](https://github.com/artem-zinnatullin/android-wail-app)<br/>
 
 
 ###Reactive programming
