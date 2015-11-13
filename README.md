@@ -45,6 +45,7 @@ I created this repository to collect all interested repositories which I found o
 20). [plaid](https://github.com/nickbutcher/plaid)<br/>
 21). [wallsplash](https://github.com/mikepenz/wallsplash-android)<br/>
 22). [android-wail-app](https://github.com/artem-zinnatullin/android-wail-app)<br/>
+23). [materialup](https://github.com/Alelak/materialup)
 
 
 ###Reactive programming
