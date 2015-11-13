@@ -44,6 +44,7 @@ I created this repository to collect all interested repositories which I found o
 19). [bblfr-android](https://github.com/Nilhcem/bblfr-android)<br/>
 20). [plaid](https://github.com/nickbutcher/plaid)
 21). [wallsplash](https://github.com/mikepenz/wallsplash-android)
+22). [android-wail-app](https://github.com/artem-zinnatullin/android-wail-app)
 
 
 ###Reactive programming
