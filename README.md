@@ -55,3 +55,6 @@ I created this repository to collect all interested repositories which I found o
 1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)
 2). [android-test-demo](https://github.com/chiuki/android-test-demo)
 3). [android-testing-sample](https://github.com/proevan/android-testing-sample)
+
+### Other
+1). [RxPeople](https://github.com/cesarferreira/RxPeople)
