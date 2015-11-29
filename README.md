@@ -19,7 +19,8 @@ I created this repository to collect all interested repositories which I found o
 17). [rex-weather](https://github.com/vyshane/rex-weather)<br/>
 18). [Qiitanium](https://github.com/ogaclejapan/Qiitanium)<br/>
 19). [android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app)<br/>
-20). [twittererer](https://github.com/zfoltin/twittererer)
+20). [twittererer](https://github.com/zfoltin/twittererer)<br/>
+21). [reark](https://github.com/reark/reark)<br/>
 <br/>
 
 ### Design / UI Examples
@@ -54,9 +55,9 @@ I created this repository to collect all interested repositories which I found o
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
 
 ### Testing
-1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)
-2). [android-test-demo](https://github.com/chiuki/android-test-demo)
-3). [android-testing-sample](https://github.com/proevan/android-testing-sample)
+1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)<br/>
+2). [android-test-demo](https://github.com/chiuki/android-test-demo)<br/>
+3). [android-testing-sample](https://github.com/proevan/android-testing-sample)<br/>
 
 ### Other
-1). [RxPeople](https://github.com/cesarferreira/RxPeople)
+1). [RxPeople](https://github.com/cesarferreira/RxPeople)<br/>
