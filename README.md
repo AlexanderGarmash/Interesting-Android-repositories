@@ -21,6 +21,7 @@ I created this repository to collect all interested repositories which I found o
 19). [android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app)<br/>
 20). [twittererer](https://github.com/zfoltin/twittererer)<br/>
 21). [reark](https://github.com/reark/reark)<br/>
+22). [Another u2020](https://github.com/prolificinteractive/u2020)
 <br/>
 
 ### Design / UI Examples
