@@ -23,6 +23,7 @@ I created this repository to collect all interested repositories which I found o
 21). [reark](https://github.com/reark/reark)<br/>
 22). [Another u2020](https://github.com/prolificinteractive/u2020)
 <br/>
+23). [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
