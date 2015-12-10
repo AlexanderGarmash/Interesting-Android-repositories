@@ -52,6 +52,7 @@ I created this repository to collect all interested repositories which I found o
 24). [FabTransitionActivity](https://github.com/coyarzun89/FabTransitionActivity)<br/>
 25). [google-io-2014](https://github.com/romainguy/google-io-2014)<br/>
 26). [ChromeLikeSwipeLayout](https://github.com/ashqal/ChromeLikeSwipeLayout)<br/>
+27). [CharacterPickerView](https://github.com/alafighting/CharacterPickerView)<br/>
 
 
 ###Reactive programming
