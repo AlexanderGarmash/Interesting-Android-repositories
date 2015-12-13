@@ -26,6 +26,7 @@ I created this repository to collect all interested repositories which I found o
 23). [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)<br/>
 24). [android-flux-example](https://github.com/n0m0r3pa1n/android-flux-example)<br/>
 25). [DroidFlux](https://github.com/frostymarvelous/DroidFlux)<br/>
+26). Article [flux-and-android](http://armueller.github.io/android/2015/03/29/flux-and-android.html)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
