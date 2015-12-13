@@ -66,6 +66,8 @@ I created this repository to collect all interested repositories which I found o
 1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)<br/>
 2). [android-test-demo](https://github.com/chiuki/android-test-demo)<br/>
 3). [android-testing-sample](https://github.com/proevan/android-testing-sample)<br/>
+4). [Cukeulator](https://github.com/cucumber/cucumber-jvm/tree/master/examples/android/android-studio/Cukeulator)<br/>
+5). [espresso-cucumber-example](https://github.com/Stabilitron/espresso-cucumber-example)<br/>
 
 ### Other
 1). [RxPeople](https://github.com/cesarferreira/RxPeople)<br/>
