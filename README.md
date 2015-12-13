@@ -23,7 +23,9 @@ I created this repository to collect all interested repositories which I found o
 21). [reark](https://github.com/reark/reark)<br/>
 22). [Another u2020](https://github.com/prolificinteractive/u2020)
 <br/>
-23). [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)
+23). [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid)<br/>
+24). [android-flux-example](https://github.com/n0m0r3pa1n/android-flux-example)<br/>
+25). [DroidFlux](https://github.com/frostymarvelous/DroidFlux)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
