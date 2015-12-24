@@ -63,6 +63,7 @@ I created this repository to collect all interested repositories which I found o
 ###Reactive programming
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
 2). [rxjava-share-publish-refcount-and-all-that-jazz](http://nerds.weddingpartyapp.com/tech/2015/01/21/rxjava-share-publish-refcount-and-all-that-jazz/)<br/>
+3). [RxPager](https://gist.github.com/mttkay/24881a0ce986f6ec4b4d)<br/>
 
 ### Testing
 1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)<br/>
