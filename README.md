@@ -77,3 +77,4 @@ I created this repository to collect all interested repositories which I found o
 2). [SUREwalk_android](https://github.com/hzsweers/SUREwalk_android)<br/>
 3). [PocketHub](https://github.com/pockethub/PocketHub)<br/>
 4). [gh4a](https://github.com/slapperwan/gh4a)<br/>
+5). [android-db-commons](https://github.com/futuresimple/android-db-commons)<br/>
