@@ -28,7 +28,8 @@ I created this repository to collect all interested repositories which I found o
 25). [DroidFlux](https://github.com/frostymarvelous/DroidFlux)<br/>
 26). Article [flux-and-android](http://armueller.github.io/android/2015/03/29/flux-and-android.html)<br/>
 27). [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)<br/>
-26). [hello-mvp-dagger-2](https://github.com/grandstaish/hello-mvp-dagger-2)<br/>
+28). [hello-mvp-dagger-2](https://github.com/grandstaish/hello-mvp-dagger-2)<br/>
+29). [scoop](https://github.com/lyft/scoop)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
