@@ -30,6 +30,7 @@ I created this repository to collect all interested repositories which I found o
 27). [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)<br/>
 28). [hello-mvp-dagger-2](https://github.com/grandstaish/hello-mvp-dagger-2)<br/>
 29). [scoop](https://github.com/lyft/scoop)<br/>
+30). [Dagger examples](https://github.com/google/dagger/tree/master/examples)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
