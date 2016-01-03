@@ -85,3 +85,4 @@ I created this repository to collect all interested repositories which I found o
 4). [gh4a](https://github.com/slapperwan/gh4a)<br/>
 5). [android-db-commons](https://github.com/futuresimple/android-db-commons)<br/>
 6). [CommonUtils android](https://github.com/CommonUtils/android)<br/>
+7). [android_guides](https://github.com/codepath/android_guides/wiki)<br/>
