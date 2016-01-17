@@ -35,6 +35,7 @@ I created this repository to collect all interested repositories which I found o
 32). [android-boilerplate](https://github.com/ribot/android-boilerplate)<br/>
 33). [android_mvp_repository](https://github.com/AAverin/android_mvp_repository)<br/>
 34). [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo)<br/>
+35). [mvp-sandbox](https://github.com/ragnor-rs/mvp-sandbox)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
