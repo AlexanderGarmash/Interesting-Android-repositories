@@ -37,6 +37,7 @@ I created this repository to collect all interested repositories which I found o
 34). [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo)<br/>
 35). [mvp-sandbox](https://github.com/ragnor-rs/mvp-sandbox)<br/>
 36). [GithubClient](https://github.com/frogermcs/GithubClient)<br/>
+37). [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
