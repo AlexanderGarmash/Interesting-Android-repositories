@@ -69,6 +69,7 @@ I created this repository to collect all interested repositories which I found o
 27). [CharacterPickerView](https://github.com/alafighting/CharacterPickerView)<br/>
 28). [android-design-template](https://github.com/andreasschrade/android-design-template)<br/>
 29). [LikeAnimation](https://github.com/frogermcs/LikeAnimation)<br/>
+30). [SwipeStack](https://github.com/flschweiger/SwipeStack)<br/>
 
 ###Reactive programming
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
