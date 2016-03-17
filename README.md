@@ -93,3 +93,4 @@ I created this repository to collect all interested repositories which I found o
 7). [android_guides](https://github.com/codepath/android_guides/wiki)<br/>
 8). [dagger2-component-scopes-test](https://github.com/joesteele/dagger2-component-scopes-test)<br/>
 9). [loading-dots](https://github.com/EyalBira/loading-dots)<br/>
+10). [awesome-kotlin](https://github.com/JavaBy/awesome-kotlin#libraries)<br/>
