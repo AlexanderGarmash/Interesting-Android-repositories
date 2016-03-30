@@ -75,6 +75,7 @@ I created this repository to collect all interested repositories which I found o
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
 2). [rxjava-share-publish-refcount-and-all-that-jazz](http://nerds.weddingpartyapp.com/tech/2015/01/21/rxjava-share-publish-refcount-and-all-that-jazz/)<br/>
 3). [RxPager](https://gist.github.com/mttkay/24881a0ce986f6ec4b4d)<br/>
+4). [Intro-To-RxJava](https://github.com/Froussios/Intro-To-RxJava) and [RxBookSamples](https://github.com/AlexShutov/RxBookSamples.git)<br />
 
 ### Kotlin
 1). [yarn-android](https://github.com/russianwordnet/yarn-android)<br/>
