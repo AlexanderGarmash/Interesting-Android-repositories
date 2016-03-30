@@ -70,6 +70,7 @@ I created this repository to collect all interested repositories which I found o
 28). [android-design-template](https://github.com/andreasschrade/android-design-template)<br/>
 29). [LikeAnimation](https://github.com/frogermcs/LikeAnimation)<br/>
 30). [SwipeStack](https://github.com/flschweiger/SwipeStack)<br/>
+31). [android-historian](https://github.com/mwolfson/android-historian) and [Material design everywhere using the Android Support Libraries](https://www.youtube.com/watch?v=5u0dtzXL3PQ)<br />
 
 ###Reactive programming
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
