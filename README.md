@@ -38,6 +38,7 @@ I created this repository to collect all interested repositories which I found o
 35). [mvp-sandbox](https://github.com/ragnor-rs/mvp-sandbox)<br/>
 36). [GithubClient](https://github.com/frogermcs/GithubClient)<br/>
 37). [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example)<br/>
+38). [Rosie](https://github.com/Karumi/Rosie)<br/>
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
