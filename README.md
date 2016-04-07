@@ -81,6 +81,7 @@ I created this repository to collect all interested repositories which I found o
 ### Kotlin
 1). [yarn-android](https://github.com/russianwordnet/yarn-android)<br/>
 2). [awesome-kotlin](https://github.com/JavaBy/awesome-kotlin#libraries)<br/>
+3). [awesome-kotlin #2 by mcxiaoke](https://github.com/mcxiaoke/awesome-kotlin)<br/>
 
 ### Testing
 1). [AndroidEspressoIdlingResourcePlayground](https://github.com/FutureProcessing/AndroidEspressoIdlingResourcePlayground)<br/>
