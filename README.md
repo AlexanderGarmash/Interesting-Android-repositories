@@ -39,6 +39,9 @@ I created this repository to collect all interested repositories which I found o
 36). [GithubClient](https://github.com/frogermcs/GithubClient)<br/>
 37). [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example)<br/>
 38). [Rosie](https://github.com/Karumi/Rosie)<br/>
+39). [GankDaily](https://github.com/maoruibin/GankDaily) and [GankDagger2](https://github.com/maoruibin/GankDagger2)<br/>
+
+
 
 ### Design / UI Examples
 1). [LollipopShowcase](https://github.com/mikepenz/LollipopShowcase)<br/>
@@ -102,4 +105,5 @@ I created this repository to collect all interested repositories which I found o
 7). [android_guides](https://github.com/codepath/android_guides/wiki)<br/>
 8). [dagger2-component-scopes-test](https://github.com/joesteele/dagger2-component-scopes-test)<br/>
 9). [loading-dots](https://github.com/EyalBira/loading-dots)<br/>
+10). [TranslateApp](https://github.com/maoruibin/TranslateApp)<br/>
 
