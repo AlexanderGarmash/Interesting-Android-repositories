@@ -41,6 +41,7 @@ I created this repository to collect all interested repositories which I found o
 38). [Rosie](https://github.com/Karumi/Rosie)<br/>
 39). [GankDaily](https://github.com/maoruibin/GankDaily) and [GankDagger2](https://github.com/maoruibin/GankDagger2)<br/>
 40). [shipfaster](https://github.com/pyricau/shipfaster)<br/>
+41). [java-design-patterns](https://github.com/iluwatar/java-design-patterns), not about android, but very useful<br/>
 
 
 
