@@ -110,4 +110,5 @@ I created this repository to collect all interested repositories which I found o
 8). [dagger2-component-scopes-test](https://github.com/joesteele/dagger2-component-scopes-test)<br/>
 9). [loading-dots](https://github.com/EyalBira/loading-dots)<br/>
 10). [TranslateApp](https://github.com/maoruibin/TranslateApp)<br/>
+11). [BestAndroidGists](https://github.com/lopspower/BestAndroidGists)<br/>
 
