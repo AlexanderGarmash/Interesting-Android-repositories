@@ -98,6 +98,7 @@ I created this repository to collect all interested repositories which I found o
 4). [Cukeulator](https://github.com/cucumber/cucumber-jvm/tree/master/examples/android/android-studio/Cukeulator)<br/>
 5). [espresso-cucumber-example](https://github.com/Stabilitron/espresso-cucumber-example)<br/>
 6). [KataSuperHeroesAndroid](https://github.com/Karumi/KataSuperHeroesAndroid)<br/>
+7). [dagger-2-testing-demo](https://github.com/ecgreb/dagger-2-testing-demo)<br/>
 
 ### Other
 1). [RxPeople](https://github.com/cesarferreira/RxPeople)<br/>
