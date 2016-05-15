@@ -43,6 +43,7 @@ I created this repository to collect all interested repositories which I found o
 40). [shipfaster](https://github.com/pyricau/shipfaster)<br/>
 41). [java-design-patterns](https://github.com/iluwatar/java-design-patterns), not about android, but very useful<br/>
 42). [HarryPotterBooks](https://github.com/chemouna/HarryPotterBooks)<br/>
+43). [philm](https://github.com/chrisbanes/philm)<br/>
 
 
 ### Design / UI Examples
