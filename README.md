@@ -118,3 +118,4 @@ I created this repository to collect all interested repositories which I found o
 13). [android-common](https://github.com/surespot/android-common)<br/>
 14). [Android-Commons](https://github.com/delight-im/Android-Commons)<br/>
 15). [Aftermath](https://github.com/MichaelEvans/Aftermath)<br/>
+16). [RxApp](https://github.com/pmellaaho/RxApp)<br/>
