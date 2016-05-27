@@ -44,6 +44,7 @@ I created this repository to collect all interested repositories which I found o
 41). [java-design-patterns](https://github.com/iluwatar/java-design-patterns), not about android, but very useful<br/>
 42). [HarryPotterBooks](https://github.com/chemouna/HarryPotterBooks)<br/>
 43). [philm](https://github.com/chrisbanes/philm)<br/>
+44). [Phlux](https://github.com/konmik/Phlux)<br/>
 
 
 ### Design / UI Examples
