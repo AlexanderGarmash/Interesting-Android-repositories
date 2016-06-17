@@ -81,6 +81,7 @@ I created this repository to collect all interested repositories which I found o
 31). [android-historian](https://github.com/mwolfson/android-historian) and [Material design everywhere using the Android Support Libraries](https://www.youtube.com/watch?v=5u0dtzXL3PQ)<br />
 32). [MaterialAudiobookPlayer](https://github.com/PaulWoitaschek/MaterialAudiobookPlayer)<br/>
 33). [paper-onboarding-android](https://github.com/Ramotion/paper-onboarding-android)<br/>
+34). [Rutgers-Course-Tracker](https://github.com/tevjef/Rutgers-Course-Tracker)<br/>
 
 ###Reactive programming
 1). [RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples)<br/>
